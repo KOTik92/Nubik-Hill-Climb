@@ -1,6 +1,7 @@
 # Nubik Hill Climb
 
-Роль в проекте: Front-End Unity Developer \n
+Роль в проекте: Front-End Unity Developer
+
 Сборка под Андройд, PC
 
 Игра за нубика как в Hill Climb Racing в 3D.
