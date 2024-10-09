@@ -6,6 +6,8 @@
 
 Игра за нубика как в Hill Climb Racing в 3D.
 
+Игра - https://yandex.ru/games/app/340429#menu
+
 ## Скрины
 
 ![image_001_0000](https://github.com/user-attachments/assets/94913da6-e51e-4e46-9faa-f8804df0fca1)
