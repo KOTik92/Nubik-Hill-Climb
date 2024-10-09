@@ -2,7 +2,7 @@
 
 Роль в проекте: Front-End Unity Developer
 
-Сборка под Андройд, PC
+Сборка под Андройд, WebGL
 
 Игра за нубика как в Hill Climb Racing в 3D.
 
