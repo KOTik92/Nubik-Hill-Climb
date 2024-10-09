@@ -1,0 +1,20 @@
+public enum TypeSkin
+{
+    None,
+    Noobik,
+    Roblox,
+    Amogus,
+    Capybara,
+    Jenny,
+    Pomni,
+    Sigma,
+    Uni,
+    ZeeMan,
+    GigaChad,
+    Tumka,
+    Biskas,
+    FixEye,
+    EvgenBro,
+    Compot,
+    Driver
+}
